@@ -1,0 +1,5933 @@
+[
+    {
+        "title": "Ace Of Arrows",
+        "location": "Ace Of Arrows",
+        "simfiles": [
+            {
+                "filename": "8-Bit Adventurer.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "SC0zj9gaEPs",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "A Wandering Melody of Love.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "89XlgYsu1Kg",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Again.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "BFqA16sYJc4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.09
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Ageage Again.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "uwwU55zBYlQ",
+                        "offset": 0.4
+                    }
+                ]
+            },
+            {
+                "filename": "Ahoy!!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "e7VK3pne8N4",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Aka no Sora.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6Nb0EJI2vlU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Alchemy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "_L4kHv5CsC4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 7.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "All I Want For Christmas (Nightcore Mix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "hVTKJPNr35k"
+                    }
+                ]
+            },
+            {
+                "filename": "Alola!!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "dz_l1byP3eI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Angel Dream.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "d3vOWteq-gg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Angel of Darkness (Nightcore Mix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "xbBk37X_GVk",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Angel's Eyes.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6YWcPn3KDBY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Animals.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "DLYwwtPA49w",
+                        "offset": 0.3
+                    }
+                ]
+            },
+            {
+                "filename": "Animaniacs Theme.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "whUOy_q7_vA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Any Way You Want It.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "atxUuldUcfI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 36.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Ben 10.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "97dwYLnbW4E",
+                        "offset": 0.15
+                    }
+                ]
+            },
+            {
+                "filename": "Black Apple.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "LAbadzhTVsM"
+                    }
+                ]
+            },
+            {
+                "filename": "Blackest Luxury Car.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "AuLite5KHH0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Brand-New World.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "RV0uFMZiM48",
+                        "offset": 1.2
+                    }
+                ]
+            },
+            {
+                "filename": "Break Down!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "8jSuFBfyXlw",
+                        "offset": 1
+                    }
+                ]
+            },
+            {
+                "filename": "Break It Down.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vpYCsYuMCCg"
+                    }
+                ]
+            },
+            {
+                "filename": "Break Out Of.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "9nFlMdyUktU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.06
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Breathless.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vzerbXFwGCE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Butterfly.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "QzcvRDWgRIE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 8.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Caramelldancing.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "A67ZkAd1wmI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Catch Me If You Can.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "WwUVjMBbkqY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.28
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Catch the Wave.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pqiJ7krbEDM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Change!!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "MtNUUUiI17w",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Cheer! ~Makkana Kimochi~.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "X1i-wIJeMYY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.06
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Christmas For You!.sm",
+                "dailyMotionVideos": [
+                    {
+                        "id": "k1Isrbsin344ZAxGpQO",
+                        "offset": -13.495
+                    }
+                ]
+            },
+            {
+                "filename": "Christmas Memories.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5JvfUKFvov4"
+                    }
+                ]
+            },
+            {
+                "filename": "City Escape.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "XmVagnlM-Ys",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Club-Rockin' Steps.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "3JAZuc4_eXM",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Colorful Precious Stepcharts.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Yipp0cCc4Mo",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Connect.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lvmiSEobJ-M"
+                    }
+                ]
+            },
+            {
+                "filename": "Continuing Dream.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Q5FyKlgizAY",
+                        "offset": 0.08
+                    }
+                ]
+            },
+            {
+                "filename": "Cotton-Eye Joe.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "mOYZaiDZ7BM",
+                        "offset": 0.03
+                    }
+                ]
+            },
+            {
+                "filename": "Cruel Angel's Thesis.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "nU21rCWkuJw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dairokuten Maou.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "dHmkoeUw7RA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 6.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dangerous.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "90SGLQywYwY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Darkwing Duck Theme.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "tMWRSa0Y4Qo",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Death Row - Assault.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0jEq8-YtFw8",
+                        "offset": 0.03,
+                        "skips": [
+                            {
+                                "from": 57,
+                                "to": 221.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Decisive Battle - Ho-Oh!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5i-kRg7yNis",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dimension Tripper.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0Q94mEs-1NM",
+                        "offset": 6.3
+                    }
+                ]
+            },
+            {
+                "filename": "Discotheque.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "FHojVhh6k40"
+                    }
+                ]
+            },
+            {
+                "filename": "Doki Doki.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "jSXKhQ-d5ro",
+                        "offset": 0.1,
+                        "skips": [
+                            {
+                                "from": 18,
+                                "to": 18
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dolphin and Broadcast.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "hbB0OIDx2go"
+                    }
+                ]
+            },
+            {
+                "filename": "Dum Dadi Do.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6SCQyBcHeDg",
+                        "offset": 0.07
+                    }
+                ]
+            },
+            {
+                "filename": "Electric Love.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "rpfVs0ScRJo",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Every Morning.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "GaLuc56wHi8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.42
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Fate Runners.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Dwlsq2xl3sI",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Fear.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "4-mKu-KQ8tI"
+                    }
+                ]
+            },
+            {
+                "filename": "Festival of Ghost 2.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "618UczNmpp4"
+                    }
+                ]
+            },
+            {
+                "filename": "First Kiss -Fandub-.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6amn4tQOA00",
+                        "offset": 4.5
+                    }
+                ]
+            },
+            {
+                "filename": "Fly Away.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "YpYHCRgV_Nk",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Follow Me.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "e2XXTzYm0-s",
+                        "offset": 0.35
+                    }
+                ]
+            },
+            {
+                "filename": "Freely Tomorrow.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "KmvydnVTriE"
+                    }
+                ]
+            },
+            {
+                "filename": "Fukkireta ~HoloLive All-Stars Version~.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "9kQ2GtvDV3s",
+                        "offset": 0.06
+                    }
+                ]
+            },
+            {
+                "filename": "Furifuri Norinori.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vlKAVFZaSIA",
+                        "offset": 0.06
+                    }
+                ]
+            },
+            {
+                "filename": "Galaxias.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "30j2uT-A22k",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Gimme Chocolate!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "nL8gvqzEnHg",
+                        "offset": 0.1,
+                        "skips": [
+                            {
+                                "from": 70,
+                                "to": 113.65
+                            },
+                            {
+                                "from": 157,
+                                "to": 165.7
+                            },
+                            {
+                                "from": 175,
+                                "to": 192.4
+                            },
+                            {
+                                "from": 214,
+                                "to": 222.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Go My Way.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "g_PGcBvsQeo",
+                        "offset": 2.7,
+                        "skips": [
+                            {
+                                "from": 120,
+                                "to": 120
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Groovin' Beats.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "afXl2o82mmA",
+                        "offset": 0.6
+                    }
+                ]
+            },
+            {
+                "filename": "Guruppo.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "MXjzojgWHCc",
+                        "offset": 1.1
+                    }
+                ]
+            },
+            {
+                "filename": "Hajimari no Toki.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lDm8nqQV-NE",
+                        "offset": 0.3,
+                        "skips": [
+                            {
+                                "from": 60,
+                                "to": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Hare Hare Yukai.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ZCbUUgpKn00",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Heart-Pounding Flight.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "cOh3xriUotw"
+                    }
+                ]
+            },
+            {
+                "filename": "Heel and Toe.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5nT8NUstwtg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Hot Pot.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Tj8PfN4yVM4"
+                    }
+                ]
+            },
+            {
+                "filename": "Hyadain no Jyoujo Yujo.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "SuI1g911ens",
+                        "offset": 0.05
+                    }
+                ]
+            },
+            {
+                "filename": "Hyadain no Kakakata Kataomoi -English Dub-.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "IGtfDaMmLUs"
+                    }
+                ]
+            },
+            {
+                "filename": "Hyakka Ryouran.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Y65OmeSVVCM"
+                    }
+                ]
+            },
+            {
+                "filename": "I Can Take Off My Panties.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Gi3JB3SrArA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.02
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "If Heaven Were to Fall (Nightcore Mix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6iX7W-myxxI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Ike Ike.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Jmne2HZXB_s",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.4
+                            },
+                            {
+                                "from": 17.2,
+                                "to": 23.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Imagination.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Acxj37_OPeg",
+                        "offset": 1.3
+                    }
+                ]
+            },
+            {
+                "filename": "In a Skyforged Dream.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "yxRZ6InS2FI",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Ko-Ki-Ku-Kuru-Kuru-Kure-Ko!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "yWOeZz6T3Qo"
+                    }
+                ]
+            },
+            {
+                "filename": "Koisuru Fortune Cookie.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "8wXPSxuO1xw"
+                    }
+                ]
+            },
+            {
+                "filename": "Kokoro Gamebox.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "K908exWpSco",
+                        "offset": 0.15
+                    }
+                ]
+            },
+            {
+                "filename": "Lazy Generation.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "7jJjjXajr3E",
+                        "offset": 0.4
+                    }
+                ]
+            },
+            {
+                "filename": "Let Me Be With You.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "yy1NsG7Dg3Y",
+                        "offset": 0.7
+                    }
+                ]
+            },
+            {
+                "filename": "Let's Just Live.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "wAbwhVOwJQw",
+                        "offset": 0.08
+                    }
+                ]
+            },
+            {
+                "filename": "Live Again.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "h-LOlueKCtk"
+                    }
+                ]
+            },
+            {
+                "filename": "Lollipop.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6md5RSnVUuo",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 10.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Look At Me.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "BefoEnOBIvc",
+                        "offset": 2.2
+                    }
+                ]
+            },
+            {
+                "filename": "Love Fighter.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "9emH2GTGCNw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.03
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Marisa Stole The Precious Thing.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "fVLDpb0G6Fc",
+                        "offset": 1.3
+                    },
+                    {
+                        "id": "1pDM6fQUfJs",
+                        "offset": 0.95
+                    }
+                ]
+            },
+            {
+                "filename": "Megalovania.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0FCvzsVlXpQ",
+                        "offset": 0.15
+                    }
+                ]
+            },
+            {
+                "filename": "MJG Recruitment Song.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Gkvut0tbGHA"
+                    }
+                ]
+            },
+            {
+                "filename": "Moshi Moshi.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "keAy8uVjTv8",
+                        "offset": 0.5
+                    }
+                ]
+            },
+            {
+                "filename": "Motteke Sailor Fuku -Metabo Taisaku Mix-.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "jchEY6u7QwE"
+                    }
+                ]
+            },
+            {
+                "filename": "Mr. Raindrop.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vnU81QnWhXA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.05
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "My Kitten.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "VuxgJIfEXIM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.05
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "My Skateboard Will Go On.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "iCNfYjZ26ow",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Nanairo Nadeshiko.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Ud7nRsrgnl0"
+                    }
+                ]
+            },
+            {
+                "filename": "Nasty Girl.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "cHrPY7qycqE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.04
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Never Gonna Give You Up.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "dQw4w9WgXcQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Next-Color Planet.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vQHVGXdcqEQ",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Oath Sign.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "GiOJEjWeShI",
+                        "offset": 0.25
+                    }
+                ]
+            },
+            {
+                "filename": "Overall.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "zVMgr4eJL7A"
+                    }
+                ]
+            },
+            {
+                "filename": "Passionate Starmine.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "OWtQYNfXCV8"
+                    }
+                ]
+            },
+            {
+                "filename": "Pastel Flags.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "fxyBXiNRaWs",
+                        "offset": 0.04
+                    }
+                ]
+            },
+            {
+                "filename": "Peach Fuzz.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0tGTID-raZM",
+                        "offset": 2.8,
+                        "skips": [
+                            {
+                                "from": 100,
+                                "to": 94.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Peter Pan.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "HHGAGGK4Xno"
+                    }
+                ]
+            },
+            {
+                "filename": "Pina Colada Boy (Nightcore Mix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "V7fdXS2ljv4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Pretty Dreamer.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "JXkwl3rS6Ow",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Princess Bride -Rock Mix-.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "_PFG0cDHwdo"
+                    }
+                ]
+            },
+            {
+                "filename": "Prism.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "jKvf3mLheOA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.22
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Pure Pure Heart.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "-UxNx0eRZ-0"
+                    }
+                ]
+            },
+            {
+                "filename": "Pyramid Treasure.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vG56Gt5plWA",
+                        "offset": 0.12
+                    }
+                ]
+            },
+            {
+                "filename": "Rabucchu Chireiden.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "YRImdeKCVPg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Ready Steady Go! (Afterglow Cover).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "KvS6pJp7CJU"
+                    }
+                ]
+            },
+            {
+                "filename": "Ready!!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "AOQ83vSmO7I",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Recall.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "r5KngOcuiCM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Recommended Spell.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "_UUwDOwf_sU"
+                    }
+                ]
+            },
+            {
+                "filename": "Requiem of the Angels with Broken Wings.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "7e87pF4QC6k"
+                    }
+                ]
+            },
+            {
+                "filename": "Ride On Shooting Star.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "tdjNcgdnRyk",
+                        "offset": 0.3
+                    }
+                ]
+            },
+            {
+                "filename": "Say!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pFgUluV_00s",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Senbonzakura.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "xMQLi3FStiU",
+                        "offset": 0.15
+                    },
+                    {
+                        "id": "Mqps4anhz0Q",
+                        "offset": 1.15
+                    }
+                ]
+            },
+            {
+                "filename": "Sentimental Generation.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "SSJ7RBvchlw"
+                    }
+                ]
+            },
+            {
+                "filename": "Shake It!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "gW2u1UQMut0",
+                        "offset": 0.05
+                    }
+                ]
+            },
+            {
+                "filename": "Shiguang Tuya.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5Yrgm0VqFKg"
+                    }
+                ]
+            },
+            {
+                "filename": "Shiny Smily Story.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "RrsGNMMghKM",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Shokuza Belladonna.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "OQU-HH6t034",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Shut Up and Dance.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6JCLY0Rlx6Q",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 14.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Star Driver.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "HRNdFHe6cKU"
+                    }
+                ]
+            },
+            {
+                "filename": "Star Sphere Poems.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "9IrR7fAV5jc"
+                    }
+                ]
+            },
+            {
+                "filename": "Starstrukk.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5YvCIADwfZM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.13
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Step!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "S1W93_J3MH8",
+                        "offset": 0.05
+                    }
+                ]
+            },
+            {
+                "filename": "Stress-Free Style.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "zhwJAZlAoI4",
+                        "offset": 0.08
+                    }
+                ]
+            },
+            {
+                "filename": "Summer Void.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "daBQV5XJzwg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Super Affection.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "62c7_zKoSV8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Sweet Bitter Beauty Song.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "AclHnprntqY",
+                        "offset": 0.4
+                    }
+                ]
+            },
+            {
+                "filename": "Sweet Dream.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "arwHkPWRqak"
+                    }
+                ]
+            },
+            {
+                "filename": "Sweet Magic.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "xWjnpLwfjLs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 7.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Take On Me.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "djV11Xbc914",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Talk 2 U.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "2bhOMyEFGBw"
+                    }
+                ]
+            },
+            {
+                "filename": "Tech Lab.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "za0dHqdOPcg",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "This Will Be The Day.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "_x9zjk2MgVQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Timeline.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "PvEYhqYuHXY"
+                    }
+                ]
+            },
+            {
+                "filename": "To the Beginning.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "O5uYQF4R-jo",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Two-Faced Stepcharts.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "RbVH-nvFGuk",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "U Can Stop.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "95kbymaMb9A"
+                    }
+                ]
+            },
+            {
+                "filename": "Unhappy Refrain.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "cviXlP3MdWs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Vertical Horizon.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Xtlg3Lck5R4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "We Are.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "CFM_zypYFHM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "World's End Dancehall.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "mXyv8ET3AJM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "id": "0y6J7kqc9_4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Yellow Steps.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "d3GFE05UrBA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 7.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Yume to Tsuki.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "2E0sZBdWD0Q"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "chewi's simfiles",
+        "location": "chewi's simfiles",
+        "simfiles": [
+            {
+                "filename": "Backseat.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "herLMUn2-U0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 9.4
+                            },
+                            {
+                                "from": 101.5,
+                                "to": 212.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Bangarang.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "YJVmu6yttiw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.668
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Communication.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "1pvh-MGteGo"
+                    },
+                    {
+                        "id": "0VApn2Y_IDE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 37.01
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Cooler Than Me.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "mqWq_48LxWQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 62.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "DANCE (MSTRKRFT Remix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0B-gC3O5kLA"
+                    }
+                ]
+            },
+            {
+                "filename": "Different World.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "1fpPTmAOdlA"
+                    }
+                ]
+            },
+            {
+                "filename": "Don't Trust Me.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "mdB3Oyd5HtU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 15.45
+                            },
+                            {
+                                "from": 74.8,
+                                "to": 133.85
+                            },
+                            {
+                                "from": 147,
+                                "to": 154.4
+                            },
+                            {
+                                "from": 163,
+                                "to": 170.39
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Hella Good.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "QtTj4cramPM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.329
+                            },
+                            {
+                                "from": 69.3,
+                                "to": 169.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Infinity 2008 (Klaas Vocal Edit).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "dL3AiuTsbOU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 10.05
+                            },
+                            {
+                                "from": 85,
+                                "to": 160
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Insert Coin (Feat. Jeong Mun).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Jb1YAPwQb8A"
+                    },
+                    {
+                        "id": "DzvKpHPZlC8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 6.5
+                            },
+                            {
+                                "from": 80,
+                                "to": 65.23
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "KOROBUSHKA (Ryu Remix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "yYD5W6AAOX0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 35.5
+                            },
+                            {
+                                "from": 69,
+                                "to": 91
+                            },
+                            {
+                                "from": 112.6,
+                                "to": 145.54
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Let Me Hit It (Audiostalkers Original Mix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "X3oOQ8XnQWU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 7.34
+                            },
+                            {
+                                "from": 45,
+                                "to": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Shut Me Up.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "B0AX81gv5aM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 22.365
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Something Good '08 (Radio Edit).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "m97WlpsuU74",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 18.4
+                            },
+                            {
+                                "from": 78,
+                                "to": 122.65
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Fraxtil",
+        "location": "Fraxtil",
+        "simfiles": [
+            {
+                "filename": "404.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "gnnIrTLlLyA",
+                        "offset": 0.2,
+                        "skips": [
+                            {
+                                "from": 68,
+                                "to": 75.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "8bit Adventurer.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "SC0zj9gaEPs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.26
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Automagic.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "4OqH6azVqn4"
+                    }
+                ]
+            },
+            {
+                "filename": "Bitch Clap.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Bz7rppcU4WA"
+                    }
+                ]
+            },
+            {
+                "filename": "Call Me Maybe (Remix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "LXNrEHqpqnU"
+                    }
+                ]
+            },
+            {
+                "filename": "Crazy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6RyhaUzlVcU"
+                    }
+                ]
+            },
+            {
+                "filename": "Deal With It.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "q9miPLjxvUQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Girls.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0OWkw0v1XDg"
+                    }
+                ]
+            },
+            {
+                "filename": "Goodbye (2012 Mix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "yQdVCOv5SP0"
+                    }
+                ]
+            },
+            {
+                "filename": "Lightspeed (Remix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0gqObxNggpg"
+                    }
+                ]
+            },
+            {
+                "filename": "Pain Game.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5jJh8qx4iHI"
+                    }
+                ]
+            },
+            {
+                "filename": "Peacock.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "B1D77iLqK0I"
+                    }
+                ]
+            },
+            {
+                "filename": "Trap.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "VQDZA-h2N9Y"
+                    }
+                ]
+            },
+            {
+                "filename": "Weapon.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "nPKDy-lxED4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            },
+                            {
+                                "from": 116.95,
+                                "to": 130.81
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Otaku's Dream Mix",
+        "location": "Otaku's Dream Mix",
+        "simfiles": [
+            {
+                "filename": "99.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Bw-5Lka7gPE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.01
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "A Whole New World God Only Knows.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "VMb2ikp5sSU",
+                        "offset": 1.2
+                    }
+                ]
+            },
+            {
+                "filename": "again.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ShEAiFqkY0E",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "ambiguous.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "qaLeO-2Fytg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.98
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Anemoi.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "nwr1A-KPopM",
+                        "offset": 2.09
+                    }
+                ]
+            },
+            {
+                "filename": "Ashita o Orase.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "e-7uuV7B7mo",
+                        "offset": 0.3
+                    }
+                ]
+            },
+            {
+                "filename": "Bakusou Yumeuta.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6W1ajuerl6o",
+                        "offset": 1.5
+                    }
+                ]
+            },
+            {
+                "filename": "believe.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "JSH7burWTxs"
+                    }
+                ]
+            },
+            {
+                "filename": "blank.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "BlEmAcDm8pY",
+                        "offset": 0.3
+                    }
+                ]
+            },
+            {
+                "filename": "Blood Circulator.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "d08dw3ztKZw",
+                        "offset": 0.25
+                    }
+                ]
+            },
+            {
+                "filename": "Boku no Kotoba dewa nai, Kore wa Bokutachi no Kotoba.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "XYIWI4I3ASk",
+                        "offset": 0.7
+                    }
+                ]
+            },
+            {
+                "filename": "Brave Freak Out.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "SReCZXEqE48",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "CHA-LA HEAD-CHA-LA.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "VyaKCN5rljw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 2
+                            }
+                        ]
+                    },
+                    {
+                        "id": "V7mMls-zSDI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 2.113
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Chaining Intention.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "GOwN_qvlYUg"
+                    }
+                ]
+            },
+            {
+                "filename": "chAngE.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "rUuHxyYqUSU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.20
+                            }
+                        ]
+                    },
+                    {
+                        "id": "KbetinNS-bY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Clattanoia.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "KOWcj7XKnfQ",
+                        "offset": 0.055
+                    }
+                ]
+            },
+            {
+                "filename": "COOLEST.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "f8d3bW42aFY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.13
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "CORE PRIDE.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "D1SPcHF9T80",
+                        "offset": 7.95
+                    }
+                ]
+            },
+            {
+                "filename": "Daisy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vXV7Cs3VChc",
+                        "offset": 0.5
+                    }
+                ]
+            },
+            {
+                "filename": "Dang Dang.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "PkdCpPK1vFY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Database.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "CZ73Qv-RQNg",
+                        "offset": 0.25
+                    }
+                ]
+            },
+            {
+                "filename": "DAY X DAY.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "n2RgysLc66E",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Daze.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "_1hNaDmBS-U",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Don't say 'lazy'.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Gdt4h0ZobfI",
+                        "skips": [
+                            {
+                                "from": 30,
+                                "to": 30
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Feed A.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "CgeKdKzwSis"
+                    }
+                ]
+            },
+            {
+                "filename": "Flyers.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Ca5Tf5BDSYI"
+                    }
+                ]
+            },
+            {
+                "filename": "Follow Me Feat.Sound Around.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "gjwxINQYwPg"
+                    }
+                ]
+            },
+            {
+                "filename": "Friends Making Group.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "dMuIIKbgoGc"
+                    }
+                ]
+            },
+            {
+                "filename": "GATE II ~Sekai wo Koete~.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "fcCJhQrGcEQ",
+                        "offset": 1.1
+                    }
+                ]
+            },
+            {
+                "filename": "GATE ~Sore wa Akatsuki no you ni~.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "jr-YAO5loV8",
+                        "offset": 0.08
+                    }
+                ]
+            },
+            {
+                "filename": "Ginsen no Kaze.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "R9KhHVcRb7c",
+                        "offset": 1.2
+                    }
+                ]
+            },
+            {
+                "filename": "Gosick OP.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "iOrkj_MFXm8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.43
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Goya no Machiawase.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "gWCnKoEgfP0",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Gunjou Survival.sm",
+                "dailyMotionVideos": [
+                    {
+                        "id": "x2x7142"
+                    }
+                ]
+            },
+            {
+                "filename": "Guren no Yumiya.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "8OkpRK2_gVs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.24
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Hakushu Kassai Uta Awase.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "TVA3tnsjQY4"
+                    }
+                ]
+            },
+            {
+                "filename": "HANAJI (2).sm",
+                "youtubeVideos": [
+                    {
+                        "offset": 0.11,
+                        "id": "pOHwVZc6QYY"
+                    }
+                ]
+            },
+            {
+                "filename": "Hanaji.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pOHwVZc6QYY",
+                        "offset": 0.115
+                    }
+                ]
+            },
+            {
+                "filename": "Haruka Kanata.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "2SHfwrMDapc",
+                        "offset": 0.5
+                    }
+                ]
+            },
+            {
+                "filename": "Harukaze.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "E-ejE--Q3UE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.13
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Hello, world!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "4J8jcI0WtzM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Hero's Come Back.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vxvP9zSOL7s",
+                        "offset": 0.05
+                    }
+                ]
+            },
+            {
+                "filename": "holLow wORlD.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "4XtHp3NxQLc"
+                    }
+                ]
+            },
+            {
+                "filename": "HOTD.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "TQwQMeb-44g",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.02
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "JAP.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "od5pOw6y2a0",
+                        "offset": 0.7
+                    }
+                ]
+            },
+            {
+                "filename": "Key.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "jD3ZawJlZR0",
+                        "offset": 1.4
+                    }
+                ]
+            },
+            {
+                "filename": "Kimi ja Nakya Dame Mitai.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "EjgOD9vruTE"
+                    }
+                ]
+            },
+            {
+                "filename": "Kimi ni, Mune Kyun. (2).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "hRo1uK2NILo",
+                        "offset": 0.32
+                    }
+                ]
+            },
+            {
+                "filename": "Kimi ni, Mune Kyun..sm",
+                "youtubeVideos": [
+                    {
+                        "id": "hRo1uK2NILo",
+                        "offset": 0.32
+                    }
+                ]
+            },
+            {
+                "filename": "Kimi no Shiranai Monogatari (2).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "HBT7o-o8zjA",
+                        "offset": 0.7
+                    }
+                ]
+            },
+            {
+                "filename": "Kimi no Shiranai Monogatari.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "HBT7o-o8zjA"
+                    }
+                ]
+            },
+            {
+                "filename": "L.L.L..sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ChayFwyFvPk",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Lime Tree.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "nN0NKKcBCdQ",
+                        "offset": 0.3
+                    }
+                ]
+            },
+            {
+                "filename": "LINE.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "HdgD7E6JEE4",
+                        "offset": 0.17
+                    }
+                ]
+            },
+            {
+                "filename": "Lost Time Memory.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "v9wrDGfYCWA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            },
+                            {
+                                "from": 94,
+                                "to": 229.71
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "LOVE & ROLL.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6jfMKoN16fI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Lovers.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "KmrTuNXVrf4",
+                        "offset": 0.35
+                    }
+                ]
+            },
+            {
+                "filename": "masterpiece (2).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "bnmPUlbwVc4",
+                        "offset": 1.11
+                    }
+                ]
+            },
+            {
+                "filename": "masterpiece.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "bnmPUlbwVc4",
+                        "offset": 0.11
+                    }
+                ]
+            },
+            {
+                "filename": "Mirror, Mirror.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "7uTmelgEsE8",
+                        "offset": 0.1
+                    }
+                ]
+            },
+            {
+                "filename": "Naisho no Hanashi.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "cHN2mdIwB8M",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Naked Dive.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "reTAq6CjHQ0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Namae wo Yobu yo.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "-cFvEPfhMdo",
+                        "offset": 19.07
+                    }
+                ]
+            },
+            {
+                "filename": "Orange.sm",
+                "youtubeVideos": [],
+                "dailyMotionVideos": [
+                    {
+                        "id": "x88bg1",
+                        "offset": 14
+                    }
+                ]
+            },
+            {
+                "filename": "Outgrow.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "CpE60HVhFA4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "PAPERMOON.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "-eYK3YP524A",
+                        "offset": 0.21
+                    }
+                ]
+            },
+            {
+                "filename": "Paradisus-Paradoxum.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "iu_0kOfMGD0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Pray.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "REHaJZgWwxY"
+                    }
+                ]
+            },
+            {
+                "filename": "PUNCH LINE!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "3v_USHwhxe8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.19
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "RAGE OF DUST.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "gz_nHGZutVU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.13
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Raise your flag.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "FjXS_lbU2TU"
+                    }
+                ]
+            },
+            {
+                "filename": "Ranbu no Melody.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "XXjgwpayNoM",
+                        "offset": 0.7
+                    }
+                ]
+            },
+            {
+                "filename": "RE RE.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "fodAJ-1dN3I",
+                        "offset": 61.85
+                    }
+                ]
+            },
+            {
+                "filename": "Reason Living.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "v9OhNoPAZJY"
+                    }
+                ]
+            },
+            {
+                "filename": "Redo.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0Vwwr3VGsYg",
+                        "offset": 0.73
+                    }
+                ]
+            },
+            {
+                "filename": "Replica.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5O_roG-cfF4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Rising Hope.sm",
+                "dailyMotionVideos": [
+                    {
+                        "id": "x3o3gr5"
+                    }
+                ]
+            },
+            {
+                "filename": "Sen no Tsubasa.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "f74_M9-o9do",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "shelter.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "fzQ6gRAEoy0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 49.283
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Snow Fairy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "8EMCTHpRnJE",
+                        "offset": 0.26
+                    }
+                ]
+            },
+            {
+                "filename": "STRIKE BACK.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "m6cJaI1Z_v4",
+                        "offset": 0.02
+                    }
+                ]
+            },
+            {
+                "filename": "Style..sm",
+                "youtubeVideos": [
+                    {
+                        "id": "AefEZWOWMeY",
+                        "offset": 1.15
+                    }
+                ]
+            },
+            {
+                "filename": "Sugar Song to Bitter Step.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "j3SlUmr_T4g",
+                        "offset": 9.7,
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 6
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3exsRhw3xt8",
+                        "offset": 0.05,
+                        "skips": [
+                            {
+                                "from": 7.7,
+                                "to": 22.25
+                            },
+                            {
+                                "from": 89.6,
+                                "to": 67.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Survivor.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "r_iWmWNr8xU",
+                        "offset": 0.02
+                    }
+                ]
+            },
+            {
+                "filename": "THE DAY.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "yu0HjPzFYnY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.08
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "atxYe-nOa9w",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.34
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Tokio Funka.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lyzQL5EjKhM",
+                        "skips": [
+                            {
+                                "from": 88,
+                                "to": 272
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Toumei Datta Sekai.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lGTp4VogNaQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Trust Me.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "86sLUOnyCPs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Unlimited Sky.sm",
+                "dailyMotionVideos": [
+                    {
+                        "id": "k51CXo2oIrJmUpxGrH5"
+                    }
+                ]
+            },
+            {
+                "filename": "White Light.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "nau1BvFAGLY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Wonderland.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lelGG_1jtcg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Other",
+        "location": "Other",
+        "simfiles": [
+            {
+                "filename": "Bambous.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "utXGM_aosXI"
+                    }
+                ]
+            },
+            {
+                "filename": "D.A.N.C.E..sm",
+                "youtubeVideos": [
+                    {
+                        "id": "VQpXH7c2nQE"
+                    }
+                ]
+            },
+            {
+                "filename": "Dancing In The Moonlight.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "0yBnIUX0QAE",
+                        "offset": 2,
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 8.3
+                            },
+                            {
+                                "from": 32,
+                                "to": 56.05
+                            },
+                            {
+                                "from": 72.5,
+                                "to": 112.71
+                            },
+                            {
+                                "from": 145,
+                                "to": 145
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Discord (The Living Tombstone's Mix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "xPfMb50dsOk",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dustup.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "n_p3WWGz4Jo"
+                    }
+                ]
+            },
+            {
+                "filename": "Gold Dust.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "RNuUgbUzM8U",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 13.5
+                            },
+                            {
+                                "from": 80,
+                                "to": 107.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Gospel of the Throttle.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "cXabZ_-QPb0",
+                        "offset": 0.94
+                    }
+                ]
+            },
+            {
+                "filename": "Harder Better Faster Stronger.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "gAjR4_CbPpQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 43.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "I Like The Way.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "jO90ullM3FQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Jump Up, Super Star!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "1bZtCt_Siro"
+                    }
+                ]
+            },
+            {
+                "filename": "Movin' Too Fast.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "9Xaz6JOLy_4"
+                    }
+                ]
+            },
+            {
+                "filename": "Oh Sweetie Belle.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "IYxgzc4QGdM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.19
+                            },
+                            {
+                                "from": 59,
+                                "to": 155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Paradise.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "1G4isv_Fylg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 13.8
+                            },
+                            {
+                                "from": 54.5,
+                                "to": 95.75
+                            },
+                            {
+                                "from": 147.5,
+                                "to": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "sweetheart.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "kS-letTvu9k"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Sudziosis",
+        "location": "Sudziosis",
+        "simfiles": [
+            {
+                "filename": "Absolution Day.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "XcXp0YdQGi4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Alive (Vonikk Remx).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "z4wF5J2dg3o",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.1
+                            },
+                            {
+                                "from": 23,
+                                "to": 37.95
+                            },
+                            {
+                                "from": 98,
+                                "to": 128.05
+                            },
+                            {
+                                "from": 142.7,
+                                "to": 202.65
+                            },
+                            {
+                                "from": 217.5,
+                                "to": 262.55
+                            },
+                            {
+                                "from": 277.6,
+                                "to": 293.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Festivo.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "LCOJmBGEmiU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.04
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Free Race.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Z9PLTtQICeQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Guitars SUCK.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "wEOFMHgkHzI",
+                        "offset": 0.12
+                    }
+                ]
+            },
+            {
+                "filename": "Haunted.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "t8d1UsB3JaY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 14.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Here to Stay.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "zqxcmjO9iP4"
+                    }
+                ]
+            },
+            {
+                "filename": "Koko Soko.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vSrsob02QX8",
+                        "skips": [
+                            {
+                                "from": 64,
+                                "to": 118.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Martyr.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ETTPLtbCUa4"
+                    }
+                ]
+            },
+            {
+                "filename": "Red Roses.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "IXtsY7QnIdY"
+                    }
+                ]
+            },
+            {
+                "filename": "Sneakman.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "mZxGDKpXUpc"
+                    }
+                ]
+            },
+            {
+                "filename": "Synthesizers.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "BuWcGJ6BQH4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Valex's Magical 4-Arrow Adventure",
+        "location": "Valex's Magical 4-Arrow Adventure",
+        "simfiles": [
+            {
+                "filename": "2nd sucks.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "n6T9olarH-U",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 162.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "80s Fitness.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "g5FFpYm-360",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 2.16
+                            },
+                            {
+                                "from": 25,
+                                "to": 42.5
+                            },
+                            {
+                                "from": 89.4,
+                                "to": 141.85
+                            },
+                            {
+                                "from": 159.1,
+                                "to": 193.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "A Turtle's Heart.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "zlK4AEXJ-kU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 7.39
+                            },
+                            {
+                                "from": 72.3,
+                                "to": 78.76
+                            },
+                            {
+                                "from": 113,
+                                "to": 119.55
+                            },
+                            {
+                                "from": 120.5,
+                                "to": 120.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "B12.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "P1zz5OZ4ljU",
+                        "skips": [
+                            {
+                                "from": 65,
+                                "to": 147.25
+                            },
+                            {
+                                "from": 202,
+                                "to": 220.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Bad 4 My Health.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "IoOKHrCFOMI"
+                    }
+                ]
+            },
+            {
+                "filename": "Bad Pyromaniacs.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "sW_dmjqjhpQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Death by Robot.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Ok6UxkB-V_k"
+                    }
+                ]
+            },
+            {
+                "filename": "FAKE!FAKE!FAKE!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "sz6CVpS32QY",
+                        "skips": [
+                            {
+                                "from": 13.3,
+                                "to": 22.02
+                            },
+                            {
+                                "from": 33,
+                                "to": 41.8
+                            },
+                            {
+                                "from": 90,
+                                "to": 98.7
+                            },
+                            {
+                                "from": 109.3,
+                                "to": 118
+                            }
+                        ]
+                    },
+                    {
+                        "id": "tKQp_WyzcOo",
+                        "skips": [
+                            {
+                                "from": 13.3,
+                                "to": 22.02
+                            },
+                            {
+                                "from": 33,
+                                "to": 41.8
+                            },
+                            {
+                                "from": 90,
+                                "to": 98.7
+                            },
+                            {
+                                "from": 109.3,
+                                "to": 118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "funky.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "CmQzg9WCi_0"
+                    }
+                ]
+            },
+            {
+                "filename": "Hop Step Adventure.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5i8PQlYWjg8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Louder Than Words.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "-KlyoofajZk"
+                    }
+                ]
+            },
+            {
+                "filename": "Nothing to Say.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "jhP2Uyq1nGQ"
+                    }
+                ]
+            },
+            {
+                "filename": "On The Rocks.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "g3B6KRcd9KQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Our Demons.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "VkvOLB7Yzhs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 5.3
+                            },
+                            {
+                                "from": 121.9,
+                                "to": 135.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Our Xenopittan.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ulWbm1mIDks"
+                    }
+                ]
+            },
+            {
+                "filename": "Papa Gonzales.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ZKg6V0rijTM"
+                    }
+                ]
+            },
+            {
+                "filename": "propane.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "KrqyCIWQTFY"
+                    }
+                ]
+            },
+            {
+                "filename": "Showdown.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "bFkF58695yU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Splinter.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "PBHCqkPxhnE"
+                    }
+                ]
+            },
+            {
+                "filename": "Swamp Thing.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "2Q-Mb77LieU"
+                    }
+                ]
+            },
+            {
+                "filename": "Swing Break.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "EOUx07XyALs"
+                    }
+                ]
+            },
+            {
+                "filename": "The Horror.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "y_nDGG8_aC0"
+                    }
+                ]
+            },
+            {
+                "filename": "The Massacre.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "uY6xrEFh7WQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            },
+                            {
+                                "from": 98.6,
+                                "to": 113.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Time Traveler.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "itRWssMSuvw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 25
+                            },
+                            {
+                                "from": 112,
+                                "to": 178
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Whiskers.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "sA0nnjHGxv4"
+                    }
+                ]
+            },
+            {
+                "filename": "Zoan Zound.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "5HTSSXHjxKA"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Vocaloid Project Pad Pack",
+        "location": "Vocaloid Project Pad Pack",
+        "simfiles": [
+            {
+                "filename": "+Danshi.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "RIA-vEJB1Aw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.66
+                            },
+                            {
+                                "from": 57.3,
+                                "to": 113.3
+                            },
+                            {
+                                "from": 193.53,
+                                "to": 204.25
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6HGLeUqoUf8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.66
+                            },
+                            {
+                                "from": 57.3,
+                                "to": 113.3
+                            },
+                            {
+                                "from": 193.53,
+                                "to": 204.25
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3BZLpBmnADE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.66
+                            },
+                            {
+                                "from": 57.3,
+                                "to": 113.3
+                            },
+                            {
+                                "from": 193.53,
+                                "to": 204.25
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vBmfwovfIHM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.66
+                            },
+                            {
+                                "from": 57.3,
+                                "to": 113.3
+                            },
+                            {
+                                "from": 193.53,
+                                "to": 204.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "1 2 Fanclub.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "I_Uax2jCUGo",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1
+                            },
+                            {
+                                "from": 88.9,
+                                "to": 211.37
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "118.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "g_fczHw349E",
+                        "skips": [
+                            {
+                                "from": 48.5,
+                                "to": 89.2
+                            }
+                        ],
+                        "offset": 0.24
+                    }
+                ]
+            },
+            {
+                "filename": "2-Dimensional Dream Fever.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ek028GSPg5k",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "39 Music!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Is2G2EIOKvY",
+                        "skips": [
+                            {
+                                "from": 98,
+                                "to": 223.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "39.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ecU_uJRzhfk",
+                        "skips": [
+                            {
+                                "from": 65.2,
+                                "to": 166
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "7 8.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "QVyVDoGB-eg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.3
+                            },
+                            {
+                                "from": 65,
+                                "to": 126
+                            },
+                            {
+                                "from": 141,
+                                "to": 156.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "A Happy Death.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "cFGVife-1y4"
+                    }
+                ]
+            },
+            {
+                "filename": "A Rendezvous With Sleep Paralysis.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "9kABQMhOT2o"
+                    }
+                ]
+            },
+            {
+                "filename": "After-School Stride.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "PLqu8uAXO8s",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.8
+                            },
+                            {
+                                "from": 110,
+                                "to": 212.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Alien Alien.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "vRpbtf8_7XM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.12
+                            },
+                            {
+                                "from": 88,
+                                "to": 94.25
+                            },
+                            {
+                                "from": 137,
+                                "to": 162.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Animal Fortune-Telling.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "4s01TDJ6YyQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1
+                            },
+                            {
+                                "from": 92,
+                                "to": 243.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Anti the EuphoriaHOLiC.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "o-TYHP3xYns",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.4
+                            },
+                            {
+                                "from": 61.5,
+                                "to": 200.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Anti the Holic.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lvPRs_HC7Wg",
+                        "skips": [
+                            {
+                                "from": 75,
+                                "to": 190.8
+                            },
+                            {
+                                "from": 210,
+                                "to": 277.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Apparently There's A Cheat Code To Happiness.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "shNgOFTla-c",
+                        "skips": [
+                            {
+                                "from": 83,
+                                "to": 138.77
+                            },
+                            {
+                                "from": 153.2,
+                                "to": 180.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Artemis.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "zRopGqtJmN8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.7
+                            },
+                            {
+                                "from": 100,
+                                "to": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Astro Troopers.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "eYWtUZ1qDlg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.2
+                            },
+                            {
+                                "from": 49.3,
+                                "to": 119.1
+                            },
+                            {
+                                "from": 186.4,
+                                "to": 205.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Bamboo Sword Girl.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "KUTDXV0ZuZ0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "batlmoon.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "nhzjZJJlWTg"
+                    }
+                ]
+            },
+            {
+                "filename": "Beside & Besides.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "aJcxLEMyAow"
+                    }
+                ]
+            },
+            {
+                "filename": "Black Rock Shooter.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "OLzOrik5YJ8",
+                        "offset": 1.9,
+                        "skips": [
+                            {
+                                "from": 116,
+                                "to": 273
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Bring it On.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "oEkGC2HV7rc",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.25
+                            },
+                            {
+                                "from": 53,
+                                "to": 113
+                            },
+                            {
+                                "from": 154,
+                                "to": 154
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Burenai Eye de (Winter Version).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "wmdICpXIECU"
+                    }
+                ]
+            },
+            {
+                "filename": "Butterfly On Your Right Shoulder.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "uzDjwziLCPI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 8.5
+                            },
+                            {
+                                "from": 119.5,
+                                "to": 126.4
+                            },
+                            {
+                                "from": 133.5,
+                                "to": 147.25
+                            },
+                            {
+                                "from": 159,
+                                "to": 173
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "bwiw2b.sm",
+                "dailyMotionVideos": [
+                    {
+                        "id": "k27Dt9lZ3QAcHaxGjEP"
+                    }
+                ]
+            },
+            {
+                "filename": "Carnival.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ID-SLX80jPQ",
+                        "skips": [
+                            {
+                                "from": 69,
+                                "to": 173
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Catch The Wave.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pqiJ7krbEDM",
+                        "offset": 0.1,
+                        "skips": [
+                            {
+                                "from": 77.5,
+                                "to": 140.28
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Cendrillon.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ns7jeST41SM",
+                        "skips": [
+                            {
+                                "from": null,
+                                "to": 15.36
+                            },
+                            {
+                                "from": 121.2,
+                                "to": 207.9
+                            },
+                            {
+                                "from": 221,
+                                "to": 247.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Chaining Intention.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "GOwN_qvlYUg"
+                    }
+                ]
+            },
+            {
+                "filename": "Charles.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "FFnJOer7F10",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.9
+                            },
+                            {
+                                "from": 81,
+                                "to": 147.3
+                            },
+                            {
+                                "from": 195,
+                                "to": 208.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Children's War.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pywNi6gD1FA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1
+                            },
+                            {
+                                "from": 73,
+                                "to": 138.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Chururira Chururira Daddadda.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "_j0kfGNwIlw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.627
+                            },
+                            {
+                                "from": 68.6,
+                                "to": 114.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "COLORFUL VOICE.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Pn8xZq-CJjQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Cosmonauts.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Xsj-IZaheUU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.1
+                            },
+                            {
+                                "from": 17,
+                                "to": 107.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Critical Situation Zen Girl.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "xEhKWS53RfY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            },
+                            {
+                                "from": 66.5,
+                                "to": 125.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dance Robot Dance.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "g7dvpD_zlIM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.05
+                            },
+                            {
+                                "from": 93,
+                                "to": 184
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Death Should Not Have Taken Thee!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "FseXpxk5s5M",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.4
+                            },
+                            {
+                                "from": 94.5,
+                                "to": 224.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dependence Intension.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "56OcqV-4q5I"
+                    }
+                ]
+            },
+            {
+                "filename": "Donut Hole.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "qnX2CdOBcDI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.7
+                            },
+                            {
+                                "from": 93.9,
+                                "to": 153
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Dream-Eating Monochrome Baku.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Xa2JHeWrgIk",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4.9
+                            },
+                            {
+                                "from": 83.4,
+                                "to": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "eazy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "TIbZDRXM-Tg",
+                        "skips": [
+                            {
+                                "from": 109.5,
+                                "to": 263.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Equation+.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "AQp2iSI997A",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 5.91
+                            },
+                            {
+                                "from": 81.1,
+                                "to": 94.89
+                            }
+                        ]
+                    },
+                    {
+                        "id": "xyyi9hcnq80",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 2.1
+                            },
+                            {
+                                "from": 77.4,
+                                "to": 91.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Even a Kunoichi Needs Love.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "eI4F8vuxoQE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.35
+                            },
+                            {
+                                "from": 78,
+                                "to": 224
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "F(R)IEND.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "zu-e6SwwImc",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Failure Girl.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "p8xRoIkIuRA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 8.3
+                            },
+                            {
+                                "from": 64.3,
+                                "to": 112.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Fantasy World Repair Girl.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "O2Unm3rmuXQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Gedatz Sensation.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Px1hIRaixZA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.55
+                            },
+                            {
+                                "from": 38.5,
+                                "to": 50.9
+                            },
+                            {
+                                "from": 96,
+                                "to": 108.5
+                            },
+                            {
+                                "from": 128,
+                                "to": 140.3
+                            },
+                            {
+                                "from": 170,
+                                "to": 194.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Gigantic Girl.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "CH5S-IpNerc",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.3
+                            },
+                            {
+                                "from": 123,
+                                "to": 247.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Girls' Rebellion.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ls_CmBx3vbY"
+                    }
+                ]
+            },
+            {
+                "filename": "Goodbye, World of Common Sense.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "g7Yk8ZtqNC0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.4
+                            },
+                            {
+                                "from": 110,
+                                "to": 205
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Happy Synthesizer (4sk Remix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "IGIK8eZ-SEI"
+                    }
+                ]
+            },
+            {
+                "filename": "Happy Synthesizer.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "xOKplMgHxxA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.5
+                            },
+                            {
+                                "from": 86.8,
+                                "to": 151.05
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Heartbreak Headlines.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Q7KBdr_kwJc",
+                        "skips": [
+                            {
+                                "from": 84,
+                                "to": 153.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Highsense Nonsense.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "KsMO4G3LZUQ"
+                    }
+                ]
+            },
+            {
+                "filename": "Hope for Azure Sky.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "SYsy8rRqNyk"
+                    }
+                ]
+            },
+            {
+                "filename": "Ievan Polkka.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ZjDZrReZ4EI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.98
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Ikasama Life Game.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "B1v_Q9QHbtY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 10.9
+                            },
+                            {
+                                "from": 78,
+                                "to": 135.6
+                            },
+                            {
+                                "from": 179,
+                                "to": 198.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Imagination Forest.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lfq7T0H6cCI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.4674
+                            },
+                            {
+                                "from": 12,
+                                "to": 33.3
+                            },
+                            {
+                                "from": 65,
+                                "to": 130.3
+                            },
+                            {
+                                "from": 173.5,
+                                "to": 196.2
+                            },
+                            {
+                                "from": 228,
+                                "to": 238.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "It's a Wonderful Cat's Life.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "FaiU_sSifGc",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.8
+                            },
+                            {
+                                "from": 128,
+                                "to": 209.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Kagamine Rin & Len - Trick & Treat.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "EEPdHJxJCrA",
+                        "skips": [
+                            {
+                                "from": 106.6,
+                                "to": 199.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Kagerou Daze.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "A7KNYk4f3XQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.75
+                            },
+                            {
+                                "from": 20,
+                                "to": 20
+                            },
+                            {
+                                "from": 78,
+                                "to": 145.2
+                            },
+                            {
+                                "from": 164,
+                                "to": 183.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Kimagure Mercy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "o1iz4L-5zkQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.6
+                            },
+                            {
+                                "from": 85,
+                                "to": 139
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Kisaragi Attention.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "RkT3UP9oNzA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.7
+                            },
+                            {
+                                "from": 93,
+                                "to": 195.05
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Kokoro-Game-Box.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "2GS_KeZa0Vc",
+                        "skips": [
+                            {
+                                "from": 99.7,
+                                "to": 146.36
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Kuru Kuru Pa.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "o-SgFHED_2E",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.48
+                            },
+                            {
+                                "from": 107.85,
+                                "to": 193
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Life Reset Button.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "IN3kbST908c",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.1
+                            },
+                            {
+                                "from": 68.2,
+                                "to": 161.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Loop.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "GLYQiri4siM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            },
+                            {
+                                "from": 120,
+                                "to": 262
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Love Hero.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "zoHdlSfP2jo",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 15.85
+                            },
+                            {
+                                "from": 98.8,
+                                "to": 230.2
+                            },
+                            {
+                                "from": 245.907829,
+                                "to": 256
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Lucky Orb.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "AufydOsiD6M",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 18.8
+                            },
+                            {
+                                "from": 167,
+                                "to": 254.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "LUVORATORRRRRY!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "p-o_bMkzOW0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.7
+                            },
+                            {
+                                "from": 61.8,
+                                "to": 61.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "MANDARA.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "YaoXkuV0BH0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Matryoshka.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "BHVthhAdKqI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 8.2
+                            },
+                            {
+                                "from": 54,
+                                "to": 55.2
+                            },
+                            {
+                                "from": 74,
+                                "to": 139.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "MAYU.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "o3pTgJ6r6AM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Meltdown.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "wp0vURAmW9g",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 20.5
+                            },
+                            {
+                                "from": 104.5,
+                                "to": 274.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Mr Earthling.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "1K3in6w9tt4",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4.4
+                            },
+                            {
+                                "from": 78,
+                                "to": 153.45
+                            },
+                            {
+                                "from": 179,
+                                "to": 181.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Netoge Haijin Sprechchor.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Yq0zBXN1o2A",
+                        "skips": [
+                            {
+                                "from": 105.5,
+                                "to": 172.7
+                            },
+                            {
+                                "from": 194.6,
+                                "to": 263.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Night Sky Patrol of Tomorrow.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "przHeOggFZA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.05
+                            }
+                        ]
+                    },
+                    {
+                        "id": "G1iWc9jbYlY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Noisy Lover's Soul.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "S5k_F4UJ9uI"
+                    }
+                ]
+            },
+            {
+                "filename": "Non-World Harmonize.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "gkTsqQaoMRA",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3
+                            },
+                            {
+                                "from": 65.7,
+                                "to": 127.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "ODDS&ENDS.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "dGNoCICGmo0",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 65.5
+                            },
+                            {
+                                "from": 120,
+                                "to": 195
+                            },
+                            {
+                                "from": 249.5,
+                                "to": 294.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Out of Step.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "F2OruTRCHUU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.8
+                            },
+                            {
+                                "from": 20,
+                                "to": 20
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Outer Science.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "E0q7B1W6ANs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.3
+                            },
+                            {
+                                "from": 60.4,
+                                "to": 119.5
+                            },
+                            {
+                                "from": 160,
+                                "to": 169.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Party Junkie.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "TloSWYvKLI8",
+                        "offset": 0.1,
+                        "skips": [
+                            {
+                                "from": 128.5,
+                                "to": 232
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Pomp and Circumstance.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ig58-T_Ivc8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.85
+                            },
+                            {
+                                "from": 109.5,
+                                "to": 170.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Rebirth.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "6iygoiBTelg",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.5
+                            },
+                            {
+                                "from": 88,
+                                "to": 192.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Reminiscence.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "DNycIq2OoEE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.06
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Remote Control.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "LcoyEZkTKfY",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.1
+                            },
+                            {
+                                "from": 14,
+                                "to": 37.2
+                            },
+                            {
+                                "from": 110,
+                                "to": 194.45
+                            },
+                            {
+                                "from": 226.5,
+                                "to": 250.9
+                            },
+                            {
+                                "from": 275.5,
+                                "to": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Reset.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "4oenZkqzdW4",
+                        "offset": 0.3,
+                        "skips": [
+                            {
+                                "from": 91,
+                                "to": 161.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Revolution Habit The Great King Epidemic.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "qhPafFCN2Jo",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.17
+                            },
+                            {
+                                "from": 75.5,
+                                "to": 133.1
+                            },
+                            {
+                                "from": 155,
+                                "to": 155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "ROKI.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "lRtPkGBCEOw"
+                    }
+                ]
+            },
+            {
+                "filename": "Rolling Girl.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "NIqm73xsias",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.37
+                            },
+                            {
+                                "from": 101.7,
+                                "to": 170.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Sand Planet.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Kn8Vs_kKQMc",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 5.9
+                            },
+                            {
+                                "from": 71.3,
+                                "to": 154.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Secret Police.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Cq5kz2LNjA8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 10.9
+                            },
+                            {
+                                "from": 73,
+                                "to": 121
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Sincerity Habit.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "ANJmnPYYunI",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.4
+                            },
+                            {
+                                "from": 43,
+                                "to": 94.5
+                            },
+                            {
+                                "from": 155.4,
+                                "to": 184.6
+                            },
+                            {
+                                "from": 206,
+                                "to": 216
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Splatter Party.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "-Q3XHFFfu3w",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 4
+                            },
+                            {
+                                "from": 120,
+                                "to": 244.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "START.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "8OxAZxcqeq4",
+                        "skips": [
+                            {
+                                "from": 64,
+                                "to": 119.3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Bocchi Koufukuron.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "HzBxijERrJE"
+                    }
+                ]
+            },
+            {
+                "filename": "Streaming Heart.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "9DD6JvY06Ok",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.25
+                            },
+                            {
+                                "from": 39,
+                                "to": 93.9
+                            }
+                        ]
+                    },
+                    {
+                        "id": "qcYFrdp3WLE",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.3
+                            },
+                            {
+                                "from": 39,
+                                "to": 93.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Sweet Devil (colate remix).sm",
+                "youtubeVideos": [
+                    {
+                        "id": "4-_D_McoE2U",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 14.95
+                            },
+                            {
+                                "from": 105.2,
+                                "to": 275.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Sweet Devil.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Gu0luN8SrIs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.1
+                            },
+                            {
+                                "from": 73.4,
+                                "to": 131.6
+                            },
+                            {
+                                "from": 146.7,
+                                "to": 161.2
+                            },
+                            {
+                                "from": 190,
+                                "to": 204.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Tell Your Donk.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "IaaSfCmC324"
+                    }
+                ]
+            },
+            {
+                "filename": "the Nightmare Theater.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "LslQS6eRxkU",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 9.29
+                            },
+                            {
+                                "from": 107.4,
+                                "to": 269.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Toluthin Antenna.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "Juo5_qaJgXc",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.73
+                            },
+                            {
+                                "from": 84.6,
+                                "to": 154.2
+                            },
+                            {
+                                "from": 180,
+                                "to": 194.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Totetatetoteta!.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "scE66JKzkIM"
+                    }
+                ]
+            },
+            {
+                "filename": "Two Breaths Walking.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "TdIhYysyy6Q",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 5.53
+                            },
+                            {
+                                "from": 72,
+                                "to": 141.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Ubaware.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "GXtVHRnolPU"
+                    }
+                ]
+            },
+            {
+                "filename": "Undead Enemy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "L_Qo4VlS1K8",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.56
+                            },
+                            {
+                                "from": 60.7,
+                                "to": 111.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Unhappy Refrain.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "cviXlP3MdWs",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Vampire's Territory.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "JVWkDhXfmIw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Venom.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "_qFQRpgcwcQ",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 1
+                            },
+                            {
+                                "from": 86,
+                                "to": 138
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "VILE CAT.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "VxWF2ElIuco",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "VIRTUAL COMPLEX.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "2L5oiwBSvWI",
+                        "skips": [
+                            {
+                                "from": 65.8,
+                                "to": 126.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Viva Happy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "WiUjG9fF3zw",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 2.2
+                            },
+                            {
+                                "from": 87,
+                                "to": 156.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Whatever Whatever Whatever.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "y8-6QPEes1k",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.45
+                            },
+                            {
+                                "from": 68,
+                                "to": 128.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "World's End Dancehall.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "mXyv8ET3AJM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 3.5
+                            },
+                            {
+                                "from": 8,
+                                "to": 8
+                            },
+                            {
+                                "from": 86.8,
+                                "to": 176.65
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "YADA.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "LXo6F9wBl_c",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.62
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Yobanashi Deceive.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "98YWS7WuB0o",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.57
+                            },
+                            {
+                                "from": 74,
+                                "to": 131.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "Young Disease Outburst Boy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "o2ovsJkqaiM",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.36
+                            },
+                            {
+                                "from": 68,
+                                "to": 130
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "filename": "YY.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "TcHvEFxk_78",
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 0.7
+                            },
+                            {
+                                "from": 33,
+                                "to": 111.05
+                            },
+                            {
+                                "from": 154,
+                                "to": 154
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Guz",
+        "location": "Guz",
+        "simfiles": [
+            {
+                "filename": "Silver Scrapes.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "v1Vnk9LdftI"
+                    }
+                ]
+            },
+            {
+                "filename": "Happy.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "tvY7Nw1i6Kw",
+                        "offset": 19.85,
+                        "skips": [
+                            {
+                                "from": 0,
+                                "to": 19.85
+                            },
+                            {
+                                "from": 96,
+                                "to": 214
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Testing",
+        "location": "Testing",
+        "simfiles": [
+            {
+                "filename": "Testing BPM Stops.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pHvP71rwYAc"
+                    }
+                ]
+            },
+            {
+                "filename": "Testing BPM.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pHvP71rwYAc"
+                    }
+                ]
+            },
+            {
+                "filename": "Testing NegBPM Stops.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pHvP71rwYAc"
+                    }
+                ]
+            },
+            {
+                "filename": "Testing Slow song.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pHvP71rwYAc"
+                    }
+                ]
+            },
+            {
+                "filename": "Testing Stops.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pHvP71rwYAc"
+                    }
+                ]
+            },
+            {
+                "filename": "Testing Quantization.sm",
+                "youtubeVideos": [
+                    {
+                        "id": "pHvP71rwYAc"
+                    }
+                ]
+            }
+        ]
+    }
+]
